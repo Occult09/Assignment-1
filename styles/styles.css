@@ -7,13 +7,11 @@
 .header {
     height: 600px;
     width: 1360px;
-    /* background-color: aqua; */
     background-image: url('../Images/Banner\ Image.png');
     background-repeat: no-repeat;
     text-align: center;
     margin-left: 300px;
     color: #FFFFFF;
-    /* background-position: center; */
 }
 
 .header-title {
@@ -66,4 +64,37 @@
 .welcome-title {
     font-size: 50px;
     font-weight: bolder;
+}
+.address{
+    background-color: rgb(248, 157, 157);
+    width: 1320px;
+    height: 482px;
+    color: black;
+    font-size: 40px;
+    margin-left: 300px;
+    border-radius: 16px;
+    margin-top: 200px;
+}
+.address ul{
+    list-style: none;
+    text-align: center;
+    padding-top: 100px;
+}
+.btn-primary{
+    width: 167px;
+    height: 56px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+}
+.address-title{
+    color: red;
+}
+.address li{
+    padding: 10px;
+}
+.address button{
+    margin-top: 25px;
 }
