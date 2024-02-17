@@ -128,3 +128,23 @@
 .product-column img{
     padding-bottom: 15px;
 }
+.subscriber{
+    width: 1320px;
+    height: 616px;
+    margin-left: 300px;
+    background-color: rgb(245, 238, 238);
+    border-radius: 16px;
+}
+.subscriber-content{
+    text-align: center;
+    padding-top: 140px;
+}
+.subscriber-input{
+    text-align: center;
+}
+.subscriber-input input{
+    width: 600px;
+    height: 56px;
+    border: none;
+    border-radius: 50px;
+}
