@@ -98,3 +98,33 @@
 .address button{
     margin-top: 25px;
 }
+.product-container{
+    width: 1320px;
+    height: 1163px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.product-contents{
+    max-width: 896px;
+}
+.product-title1{
+    color: red;
+    font-weight: bold;
+}
+.product-title2{
+    color: black;
+    font-weight: bolder;
+}
+.product-description{
+    color: #070211;
+}
+.product-column{
+    width: 424px;
+    padding-right: 15px;
+}
+.product-images{
+    display: flex;
+}
+.product-column img{
+    padding-bottom: 15px;
+}
