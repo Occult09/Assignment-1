@@ -3,7 +3,8 @@
     font-weight: 400;
     font-style: normal;
 }
-.header{
+
+.header {
     height: 600px;
     width: 1360px;
     /* background-color: aqua; */
@@ -14,12 +15,55 @@
     color: #FFFFFF;
     /* background-position: center; */
 }
-.header-title{
+
+.header-title {
     font-size: 30px;
     padding-top: 165px;
     font-weight: bolder;
 }
-.header-description{
+
+.header-description {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.offer {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.offer-title {
+    font-size: 50px;
+    color: red;
+    font-weight: bolder;
+}
+
+.offer-description1 {
+    color: red;
+    font-weight: bold;
+}
+
+.offer-description2 {
+    font-weight: bold;
+}
+
+.welcome {
+    width: 1320px;
+    height: 600px;
+    text-align: left;
+    margin-top: 150px;
+    background-image: url('../Images/Vectorrr.png');
+    margin-left: 300px;
+}
+
+.welcome-content {
+    margin-left: 100px;
+    padding-top: 100px;
+    color: #FFFFFF;
+    max-width: 642px;
+}
+
+.welcome-title {
     font-size: 50px;
     font-weight: bolder;
 }
