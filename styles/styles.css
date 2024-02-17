@@ -148,3 +148,26 @@
     border: none;
     border-radius: 50px;
 }
+footer{
+    background-color: #070211;
+    margin-top: 100px;
+}
+.footer-info{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 300px;
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+.social-links{
+    width: 328px;
+    height: 64px;
+    margin: 0 auto;
+}
+.footer-bottom{
+    display: flex;
+    color: #FFFFFF;
+    justify-content: space-between;
+    padding: 100px 300px;
+}
